@@ -1,0 +1,15 @@
+[debug] Packaging C:\Users\lenovo\Documents\code\scala\projectz\quiza\target\scala-2.13\quiza_2.13-0.1-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	com\mathapp\api\Api.scala
+[debug] 	  C:\Users\lenovo\Documents\code\scala\projectz\quiza\src\main\scala\com\mathapp\api\Api.scala
+[debug] 	com\mathapp\ui\UI.scala
+[debug] 	  C:\Users\lenovo\Documents\code\scala\projectz\quiza\src\main\scala\com\mathapp\ui\UI.scala
+[debug] 	com\mathapp\api\types\Answer.scala
+[debug] 	  C:\Users\lenovo\Documents\code\scala\projectz\quiza\src\main\scala\com\mathapp\api\types\Answer.scala
+[debug] 	com\mathapp\api\types\DoubleAnswer.scala
+[debug] 	  C:\Users\lenovo\Documents\code\scala\projectz\quiza\src\main\scala\com\mathapp\api\types\DoubleAnswer.scala
+[debug] 	com\mathapp\api\types\QuadraticAnswer.scala
+[debug] 	  C:\Users\lenovo\Documents\code\scala\projectz\quiza\src\main\scala\com\mathapp\api\types\QuadraticAnswer.scala
+[debug] 	com\mathapp\api\types\Question.scala
+[debug] 	  C:\Users\lenovo\Documents\code\scala\projectz\quiza\src\main\scala\com\mathapp\api\types\Question.scala
+[debug] Done packaging.

@@ -1,0 +1,3 @@
+[debug] javaOptions: List()
+[error] Nonzero exit code returned from runner: 1
+[error] (Compile / run) Nonzero exit code returned from runner: 1

@@ -1,0 +1,97 @@
+[debug] [watch] [orm / Compile / run] Found inputs: C:\Users\lenovo\Documents\code\scala\projectz\orm\*.{java,scala},C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\java\**\*.{java,scala},C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\resources\**\*,C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\**\*.{java,scala},C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala-2.13\**\*.{java,scala}
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] 1. Monitoring source files for orm/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Creating update event for modified C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala (previous stamp: Hash(09ca96fef0d12d73df2c81f6a82fc47b3747f66e), current stamp: Hash(da56bbd08bff8f60c393095c17a1bdfb723bdc0a))
+[debug] Received file event actions: C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala -> Trigger. Returning: (Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 06:21:11.768 WAT),Trigger)
+[info] Build triggered by C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 06:21:11.768 WAT).
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] 2. Monitoring source files for orm/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala
+[debug] Creating update event for modified C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala (previous stamp: Hash(da56bbd08bff8f60c393095c17a1bdfb723bdc0a), current stamp: Hash(06f0c661754025c9f57fea3efab1709aef69272b))
+[debug] Creating update event for modified C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala (previous stamp: Hash(4ebfcc1aabf9c641b43c18581815612c988c210c), current stamp: Hash(a55fe2aad0f63fd0f31b3c09c851c055fa78677a))
+[debug] Received file event actions: C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala -> Trigger, C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala -> Trigger. Returning: (Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 06:23:51.302 WAT),Trigger)
+[info] Build triggered by C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 06:23:51.302 WAT).
+[info] 3. Monitoring source files for orm/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Creating update event for modified C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala (previous stamp: Hash(06f0c661754025c9f57fea3efab1709aef69272b), current stamp: Hash(f7f00a18df38048016ab38c2119537f79c7e6ccb))
+[debug] Received file event actions: C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala -> Trigger. Returning: (Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 06:29:53.175 WAT),Trigger)
+[info] Build triggered by C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 06:29:53.175 WAT).
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] 4. Monitoring source files for orm/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala. This event occurred 1 ms since the last event for this path.
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Creating update event for modified C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala (previous stamp: Hash(f7f00a18df38048016ab38c2119537f79c7e6ccb), current stamp: Hash(314042f58c788b64c6d5ffccc4936ced97849576))
+[debug] Received file event actions: C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala -> Trigger. Returning: (Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 06:34:50.181 WAT),Trigger)
+[info] Build triggered by C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 06:34:50.181 WAT).
+[info] 5. Monitoring source files for orm/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala. This event occurred 1 ms since the last event for this path.
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received Deletion(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Quarantining deletion event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala for 500 milliseconds
+[debug] Triggering event for previously quarantined deleted file: C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Quarantining deletion event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala for 500 milliseconds
+[debug] Triggering event for previously quarantined deleted file: C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala
+[debug] Received file event actions: C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala -> Trigger. Returning: (Deletion(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 12:34:27.701 WAT),Trigger)
+[info] Build triggered by C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Deletion(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\ui\UI.scala, 2020-Aug-01 12:34:27.701 WAT).
+[info] 6. Monitoring source files for orm/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] orm / Compile / run - Accepted event for C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala
+[debug] Received Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala
+[debug] Received event for path C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala
+[debug] Creating update event for modified C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala (previous stamp: Hash(a55fe2aad0f63fd0f31b3c09c851c055fa78677a), current stamp: Hash(4b17cb570795755cad897eb13502fc8389575573))
+[debug] Received file event actions: C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala -> Trigger. Returning: (Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala, 2020-Aug-01 12:36:47.672 WAT),Trigger)
+[info] Build triggered by C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\lenovo\Documents\code\scala\projectz\orm\src\main\scala\com\orm\api\Api.scala, 2020-Aug-01 12:36:47.672 WAT).
+[info] 7. Monitoring source files for orm/run...
+[info]    Press <enter> to interrupt or '?' for more options.
