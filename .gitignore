@@ -3,4 +3,5 @@
 .bloop/
 .metals/
 .idea/
+target/
 scalavista-vscode.log
