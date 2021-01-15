@@ -1,2 +1,6 @@
 *.class
 *.log
+.bloop/
+.metals/
+.idea/
+scalavista-vscode.log
