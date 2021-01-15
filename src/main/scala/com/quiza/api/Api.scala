@@ -21,14 +21,14 @@ object Api {
 			print("Pick a difficulty level from 1-10: ")
 			val difficulty = readInt
 			if (difficulty > 10) {
-				println(s"Over sabi, is $difficulty between 1-10, and you are taking a maths test, you better go back to primary school")
+				println(s"$difficulty is not between 1-10!!!")
 				System.exit(0)
 			}
 			print("How many questions: ")
 			val h = genRandTest(difficulty, readInt()).map(_.run()).sum
 			println(s"Total Score: $h")
 		} catch {
-			case _: java.util.InputMismatchException => println("Ode is that what I asked you for?")
+			case _: java.util.InputMismatchException => println("Wrong Input")
 		}
 	}
 

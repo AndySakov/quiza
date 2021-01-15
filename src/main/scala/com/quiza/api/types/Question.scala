@@ -67,7 +67,7 @@ object Question {
 				points
 			}
 			else{
-				println("Olodo oshi!!! Wrong answer jor.\nThe correct answer is "+ans.value)
+				println("Wrong answer!!!\nThe correct answer is "+ans.value)
 				0
 			}
 		}
@@ -102,7 +102,7 @@ object Question {
 						points
 					}
 					else{
-						println("Olodo oshi!!! Wrong answer jor.\nThe correct answer is "+ans.value)
+						println("Wrong answer!!!\nThe correct answer is "+ans.value)
 						0
 					}
 				}
@@ -128,7 +128,7 @@ object Question {
 				points
 			}
 			else{
-				println("Olodo oshi!!! Wrong answer jor.\nThe correct answer is "+ans.value)
+				println("Wrong answer!!!\nThe correct answer is "+ans.value)
 				0
 			}
 		}
